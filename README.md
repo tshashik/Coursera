@@ -1,2 +1,2 @@
 # Coursera
-Code written as part of the Data Science Coursera course
+Code written as part of the Programming in R Data Science Coursera course
